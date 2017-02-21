@@ -1,7 +1,7 @@
 @echo off
 if "%1"=="" (
 cls
-set tips=AmazingSmartCalc 2017.02.20.2.2^(Base on GnuWin32bc^)
+set tips=AmazingSmartCalc 2017.02.21.1.3^^(Base on GnuWin32bc^^^)
 title %tips%
 echo %tips%
 )
